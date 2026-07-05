@@ -9,3 +9,4 @@ httpx
 python-multipart
 PyJWT
 passlib[bcrypt]
+reportlab==4.2.2
