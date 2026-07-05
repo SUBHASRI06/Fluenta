@@ -1,0 +1,20 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+backend/storage/app.db
+
+# Node / Frontend
+node_modules/
+dist/
+build/
+.eslintcache
+
+# OS
+.DS_Store
+Thumbs.db
