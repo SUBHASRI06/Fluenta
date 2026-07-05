@@ -9,5 +9,6 @@ httpx
 python-multipart
 PyJWT
 passlib[bcrypt]
+bcrypt==3.2.2
 reportlab==4.2.2
 email-validator
